@@ -4,21 +4,21 @@
 [![Printer](https://img.shields.io/badge/Printer-Ender_3-orange.svg)]()
 
 ### Descrição
-Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas.
+Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas baseado no Marlin Bugfix-2.1.x.
 
 ---
 
 ### 📋 Configurações Principais
 | Recurso | Status | Notas |
 | :--- | :--- | :--- |
-| **Multi-Language** | ✅ Ativado | Idiomas: Potruguês Brasil, Inglês, Espanhol e Italiano |
+| **Multi-Language** | ✅ Ativado | Idiomas: Português Brasil, Inglês, Espanhol e Italiano |
 | **MPC Autotune** | ✅ Ativado | Melhor controle de temperatura do Hotend |
 | **PID Autotune** | ✅ Ativado | Melhor controle de temperatura da Mesa |
 | **Filament Runout Sensor** | ✅ Ativado | Aceita sensor de fim de filamento |
-| **S-Curve** | ✅ Ativado | Suavização de movimentação |
+| **S-Curve** | ✅ Ativado | Suavização de movimentação em curvas |
 | **EEPROM** | ✅ Ativado | Armazenamento de dados persistente |
 | **Temperature Presets** | ✅ Ativado |preset de temperaturas: PLA, PETG, ABS e CUSTOM |
-| **LCD Bed Leveling** | ✅ Ativado | Assistente para Auxiliar no Nivelamento da Mesa|
+| **LCD Bed Leveling** | ✅ Ativado | Assistente para Auxiliar no Nivelamento da Mesa (16 Pontos)|
 | **LCD Bed Tramming** | ✅ Ativado | Assistente para Nivelar as Molas da Mesa |
 | **M600 Advanced Pause** | ✅ Ativado | Suporte ao comando M600 de troca automatica de filamento |
 | **Alguns ajustes de aceleração** || Suporte ao Octoprint |
@@ -28,7 +28,10 @@ Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas.
 - **Placa:** Creality v4.2.2 (32-bit)
 - **Drivers:** A4988
 - **Hotend:** Padrão (Stock)
-- **Display:** [LCD Original Ender3/CR-10]
+- **Extrusora:** Padrão de alumínio (Bowden)
+- **Display:** LCD Original Ender3/CR-10
+- **Placa da Mesa:** Padrão (Original Flexível)
+- **Molas:** Reforçadas (Amarelas)
 
 ---
 
@@ -42,7 +45,7 @@ Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas.
 7. Rode o PID Autotune para calibrar a temperatura da Mesa.
 8. Rode o MPC Autotune do Hotend.
 9. Aguarde o término das calibrações e salve as configurações
-10. Utilize o arquivo pre compilado por sua conta e risco
+10. Utilize o arquivo pré compilado por sua conta e risco
 
 ---
 

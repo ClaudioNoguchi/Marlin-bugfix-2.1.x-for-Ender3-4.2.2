@@ -27,7 +27,7 @@ Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas baseado no Marlin 
 
 ### 🔌 Hardware
 - **Placa:** Creality v4.2.2 (32-bit)
-- **Drivers:** A4988
+- **Drivers:** A4988 (Motor Barulhento)
 - **Hotend:** Padrão (Stock)
 - **Extrusora:** Padrão de alumínio (Bowden)
 - **Display:** LCD Original Ender3/CR-10

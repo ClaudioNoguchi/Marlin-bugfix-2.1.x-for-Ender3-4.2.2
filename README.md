@@ -37,6 +37,20 @@ Com Nivelamento Manual Assistido
 
 ---
 
+## ☕ Apoie o projeto
+Se este projeto te ajudou, considere fazer uma doação de qualquer valor via Pix.
+
+Assim você ajuda no desenvolvimento de novas versões e mantém vivo o projeto.
+
+**QR-Code:** 
+<p align="left"><img src="images/mercadopago.jpg" height="250" alt="Qr-code" /></p>
+
+**Pix Copia e Cola:**
+```text
+00020126580014br.gov.bcb.pix013645b7d15e-97fb-4ab5-b307-873375f2f6805204000053039865802BR5915Claudio Noguchi6009Sao Paulo62230519daqr2413867414915026304B51B
+```
+---
+
 ### 🚀 Como Instalar e calibrar pela primeira vez
 1. Vá até a seção **Releases** no lado direito da página.
 2. Baixe o arquivo `firmware*.bin` da versão mais recente.

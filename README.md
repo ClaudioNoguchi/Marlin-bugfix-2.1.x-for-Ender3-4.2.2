@@ -6,7 +6,7 @@
 
 ### Descrição
 Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas baseado no Marlin Bugfix-2.1.x.
-
+Nivelamento Manual Assistido
 ---
 
 ### 📋 Configurações Principais

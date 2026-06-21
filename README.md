@@ -1,4 +1,5 @@
 # Marlin Ender 3 EXtreme (Noguchi Custom Firmware)
+<p align="left"><img src="images/Ender3Extreme.jpg" height="250" alt="Ender3EXjpg" /></p>
 
 [![Marlin Version](https://img.shields.io/badge/Marlin-2.1.x_Bugfix-blue.svg)]()
 [![Printer](https://img.shields.io/badge/Printer-Ender_3-orange.svg)]()

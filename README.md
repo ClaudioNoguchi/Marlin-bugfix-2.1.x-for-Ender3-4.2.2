@@ -6,7 +6,7 @@
 
 ### Descrição
 Firmware customizado para Ender 3 (Placa 4.2.2) Multi idiomas baseado no Marlin Bugfix-2.1.x.
-Nivelamento Manual Assistido
+Com Nivelamento Manual Assistido
 ---
 
 ### 📋 Configurações Principais
@@ -26,7 +26,7 @@ Nivelamento Manual Assistido
 | **Alguns ajustes de aceleração** || Suporte ao Octoprint |
 ---
 
-### 🔌 Hardware
+### 🔌 Hardware utilizado no desenvolvimento
 - **Placa:** Creality v4.2.2 (32-bit)
 - **Drivers:** A4988 (Motor Barulhento)
 - **Hotend:** Padrão (Stock)
@@ -37,7 +37,7 @@ Nivelamento Manual Assistido
 
 ---
 
-### 🚀 Como Instalar
+### 🚀 Como Instalar e calibrar pela primeira vez
 1. Vá até a seção **Releases** no lado direito da página.
 2. Baixe o arquivo `firmware*.bin` da versão mais recente.
 3. Copie o arquivo para a raiz de um cartão SD formatado em FAT32.
@@ -45,9 +45,9 @@ Nivelamento Manual Assistido
 5. Aguarde o processo de flashing (a tela pode demorar um pouco para aparecer).
 6. Reinicie a EEPROM.
 7. Rode o PID Autotune para calibrar a temperatura da Mesa.
-8. Rode o MPC Autotune do Hotend.
+8. Rode o MPC Autotune para calibrar a temperatura do Hotend.
 9. Aguarde o término das calibrações e salve as configurações
-10. Utilize o arquivo pré compilado por sua conta e risco
+10. Utilize o arquivo de firmware pré compilado por sua conta e risco
 
 ---
 

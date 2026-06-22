@@ -52,7 +52,7 @@ Assim você ajuda no desenvolvimento de novas versões e mantém vivo o projeto.
 ---
 
 ### 🚀 Como Instalar e calibrar pela primeira vez
-1. Vá até a seção **Releases** no lado direito da página.
+1. Vá até a seção [Releases](https://github.com/ClaudioNoguchi/Marlin-bugfix-2.1.x-for-Ender3-4.2.2/releases) no lado direito da página.
 2. Baixe o arquivo `firmware*.bin` da versão mais recente.
 3. Copie o arquivo para a raiz de um cartão SD formatado em FAT32.
 4. Insira na impressora desligada e ligue o equipamento.

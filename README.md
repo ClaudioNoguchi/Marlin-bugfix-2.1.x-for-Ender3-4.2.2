@@ -27,7 +27,9 @@ Com Nivelamento Manual Assistido
 ---
 
 ### 🔌 Hardware utilizado no desenvolvimento
-- **Placa:** Creality v4.2.2 (32-bit)
+<p align="left"><img src="images/placamae.jpg" height="250" alt="placamaejpg" /></p>
+
+- **Placa:** Creality v4.2.2 (32-bit apenas)
 - **Drivers:** A4988 (Motor Barulhento)
 - **Hotend:** Padrão (Stock)
 - **Extrusora:** Padrão de alumínio (Bowden)
